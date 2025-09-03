@@ -34,6 +34,7 @@ https://carl-tech.ru/cgo_setup/cgo_guide.html
 #### 3. Запустите исполняемый файл. 
 
 ПЕРЕД ЗАПУСТОМ СОЗДАЙТЕ ФАЙЛ .env
+
 Содержание такое: 
 ```
 TELEGRAM_TOKEN=токен бота
